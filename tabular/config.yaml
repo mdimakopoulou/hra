@@ -13,8 +13,8 @@ aggregator_decay_steps: 1
 
 init_q: 0.0
 gamma: 0.99
-alpha: 0.001
-final_alpha: 0.001
+alpha: 0.1
+final_alpha: 0.1
 alpha_decay_steps: 1
 alpha_decay_start: 1
 

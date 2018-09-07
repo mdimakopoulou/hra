@@ -1,0 +1,4 @@
+{aggregator_decay_start: 1, aggregator_decay_steps: 1, aggregator_epsilon: 1.0, aggregator_final_epsilon: 1.0,
+  alpha: 1, alpha_decay_start: 1, alpha_decay_steps: 1, epoch_size: 1, final_alpha: 1,
+  folder_location: /results/, folder_name: tabular_, gamma: 0.99, init_q: 0.0, learning_method: max,
+  nb_epochs: 1000, nb_eval_episodes: 5, nb_experiments: 1, random_seed: 7654, use_gvf: true}

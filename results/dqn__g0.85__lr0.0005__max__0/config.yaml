@@ -1,0 +1,7 @@
+{action_dim: 1, annealing: false, episode_max_len: 300, eps_per_epoch: 10, eps_per_test: 100,
+  epsilon: 1.0, final_epsilon: 1.0, folder_location: /results/, folder_name: dqn__g0.85__lr0.0005__,
+  gamma: 0.85, history_len: 1, is_learning: true, is_testing: true, learning_frequency: 4,
+  learning_rate: 0.0005, max_start_nullops: 0, minibatch_size: 32, nb_experiments: 1,
+  num_units: 250, random_seed: 1234, remove_features: false, rendering: false, replay_max_size: 10000,
+  replay_min_size: 1000, reward_dim: 10, test: false, test_epsilon: 0.0, total_eps: 5000,
+  update_freq: 100, use_hra: false, use_mean: false}
